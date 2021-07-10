@@ -83,8 +83,16 @@
      .text-container {
          position: absolute;
          left:13%;
-         top:42%;
+         top:250%;
          transform: translate(-13%,-42%);
+     }
+
+     .image {
+         height: 530px;
+         position: relative;
+         bottom: 0px;
+         left:72%;
+         transform: translateX(-30%);
      }
      
 
