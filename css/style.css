@@ -236,7 +236,7 @@
     }
 
     .projects-container {
-        width: 90%;
+        width: 80%;
          height: 330px;
          color: #FFFFFF;
          background-color: black;
@@ -260,7 +260,7 @@
         font-size: 20px;
         font-family: serif;
         text-align: center;
-        margin-left: 230px;
+        margin-left: 10px;
     }
 
     .projects-text button {
@@ -272,7 +272,7 @@
         font-size: 18px;
         outline: none;
         margin: 0px 10px;
-        margin-left: 230px;
+        margin-left: 150px;
         margin-top: 20px;
     }
     
